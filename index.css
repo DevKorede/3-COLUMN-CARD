@@ -20,7 +20,7 @@ body{
 .learn-more{
     background-color: white;
     color:hsl(31, 77%, 52%);
-    border-radius: 10px;
+    border-radius: 30px;
     width:125px;
     height: 30px;
     padding-bottom: 10px;
@@ -57,7 +57,7 @@ body{
 .learn-more-two{
     background-color: white;
     color:hsl(179, 100%, 13%);
-    border-radius: 10px;
+    border-radius: 30px;
     width:125px;
     height: 30px;
     padding-bottom: 10px;
