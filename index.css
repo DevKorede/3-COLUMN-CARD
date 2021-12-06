@@ -38,13 +38,15 @@ body{
 .learn-more-one{
     background-color: white;
     color:hsl(184, 100%, 22%);
-    border-radius: 10px;
+    border-radius: 30px;
     width:125px;
     height: 30px;
     padding-bottom: 10px;
     padding-top: 5px;
     border:1px solid white;
     margin:30px;
+    margin-bottom:30px;
+    margin-left:30px
 }
 .luxury{
     border:0.1px solid black;
@@ -87,9 +89,6 @@ p{
 }
 .button-class{
     margin-top: 20px;   
-    margin-bottom:30px;
-    border-radius:20px;
-    margin-left:30px;
 }
 *{
     padding: 0;
