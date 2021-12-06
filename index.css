@@ -44,9 +44,7 @@ body{
     padding-bottom: 10px;
     padding-top: 5px;
     border:1px solid white;
-    margin:30px;
-    margin-bottom:30px;
-    margin-left:30px
+    margin:30px 30px 60px 30px;
 }
 .luxury{
     border:0.1px solid black;
